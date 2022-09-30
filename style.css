@@ -1,0 +1,59 @@
+@import url("./app.css");
+
+.header{
+    width: 100%;
+    height: 50vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__h1{
+    font-size: 5.5rem;
+}
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+.contenedor__seccion{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor__h2{
+    font-size: 4.5rem;
+    color: white;
+}
+.contenedor__seccion--1{
+    background-color: black;        
+}
+.contenedor__seccion--2{
+    background-color: red;
+}
+.contenedor__seccion--3{
+    background-color: cornflowerblue;
+}
+.contenedor__seccion--4{
+    background-color: palegreen;
+}
+.footer{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rebeccapurple;
+    
+}
+.footer__h2{
+    font-size: 4.5rem;
+}
+.footer__p{
+    font-size: 3.5rem;
+}
