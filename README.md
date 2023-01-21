@@ -2,7 +2,7 @@
 
 Práctica básica de animación con scroll utilizando librería GSAP
 
-Aquí puedes ver la web publicada: <a href="https://nickochamorro.github.io/CursoGSAP-Basics/" target="_blank">Página Scroll simple</a>
+Aquí puedes ver la web publicada: <a href="https://nickochamorro.github.io/Practica-GSAPScrollSimple/" target="_blank">Página Scroll simple</a>
 
 ## Construido con 🛠️
 
